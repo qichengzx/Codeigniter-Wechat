@@ -10,4 +10,7 @@
 url:http://yourdomain.com/index.php/weixin
 token:同前边需要配置的token一样
 
+###notice
+该demo在codeigniter 3.0版本下开发，所以controolers和libraries下的文件为首字母大写。
+
 enjoy it
